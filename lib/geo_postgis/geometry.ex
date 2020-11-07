@@ -23,6 +23,7 @@ if Code.ensure_loaded?(Ecto.Type) do
     }
 
     @types [
+      "h3index",
       "Point",
       "PointZ",
       "PointM",
